@@ -9,6 +9,7 @@ O challenge consiste em construir um codificador de texto com JavaScript.
 ## Acesse o site clicando [aqui!](https://eli4kim.github.io/ChallengerT6ONE/)
 
 
+## Deploy [aqui!](https://challenger-t6-one.vercel.app/)
 ![](teste.gif)
 
 ## O que foi utilizado
